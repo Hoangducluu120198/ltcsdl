@@ -1,0 +1,129 @@
+D:\subject\StaffManagement1\bin\Debug\StaffManagement1.exe.config
+D:\subject\StaffManagement1\bin\Debug\StaffManagement1.exe
+D:\subject\StaffManagement1\bin\Debug\StaffManagement1.pdb
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.csprojAssemblyReference.cache
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.Properties.Resources.resources
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.csproj.GenerateResource.cache
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.csproj.CoreCompileInputs.cache
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.exe
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.pdb
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.LoginForm.resources
+D:\subject\StaffManagement1\obj\Debug\StaffManagement1.RegistrationForm.resources
+D:\projects C#\data\StaffManagement1\bin\Debug\StaffManagement1.exe.config
+D:\projects C#\data\StaffManagement1\bin\Debug\StaffManagement1.exe
+D:\projects C#\data\StaffManagement1\bin\Debug\StaffManagement1.pdb
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.csprojAssemblyReference.cache
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.LoginForm.resources
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.Properties.Resources.resources
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.RegistrationForm.resources
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.csproj.GenerateResource.cache
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.csproj.CoreCompileInputs.cache
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.exe
+D:\projects C#\data\StaffManagement1\obj\Debug\StaffManagement1.pdb
+D:\QLNhanVien\StaffManagement1\bin\Debug\StaffManagement1.exe.config
+D:\QLNhanVien\StaffManagement1\bin\Debug\StaffManagement1.exe
+D:\QLNhanVien\StaffManagement1\bin\Debug\StaffManagement1.pdb
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.csproj.AssemblyReference.cache
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.LoginForm.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.Properties.Resources.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.RegistrationForm.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.csproj.GenerateResource.cache
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.csproj.CoreCompileInputs.cache
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.exe
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.pdb
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.Mform.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.fNhanVien.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.FPhongBan.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.Fluong.resources
+D:\QLNhanVien\StaffManagement1\bin\Debug\AxShockwaveFlashObjects.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.Shared.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\ShockwaveFlashObjects.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\stdole.dll
+D:\QLNhanVien\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.rbbaocaonv.resources
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.csproj.CopyComplete
+D:\QLNhanVien\StaffManagement1\obj\Debug\StaffManagement1.FTinhLuong.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\StaffManagement1.exe.config
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.exe
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.pdb
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.csprojResolveAssemblyReference.cache
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.FTinhLuong.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.fNhanVien.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.FPhongBan.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.LoginForm.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.Mform.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.Properties.Resources.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.RegistrationForm.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.rbbaocaonv.resources
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.csproj.GenerateResource.Cache
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\StaffManagement1.exe
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\StaffManagement1.pdb
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\mscorlib.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\normidna.nlp
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\normnfc.nlp
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\normnfd.nlp
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\normnfkc.nlp
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\bin\Debug\normnfkd.nlp
+E:\sssssss-20210916T154116Z-001\sssssss\StaffManagement1\obj\Debug\StaffManagement1.SalaryForm.resources
+D:\rar file\StaffManagement1\bin\Debug\StaffManagement1.exe.config
+D:\rar file\StaffManagement1\bin\Debug\StaffManagement1.exe
+D:\rar file\StaffManagement1\bin\Debug\StaffManagement1.pdb
+D:\rar file\StaffManagement1\bin\Debug\stdole.dll
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.csprojAssemblyReference.cache
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.fNhanVien.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.LoginForm.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.Mform.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.Properties.Resources.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.RegistrationForm.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.SalaryForm.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.csproj.GenerateResource.cache
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.csproj.CoreCompileInputs.cache
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.csproj.CopyComplete
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.exe
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.pdb
+D:\rar file\StaffManagement1\bin\Debug\AxShockwaveFlashObjects.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.Shared.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\rar file\StaffManagement1\bin\Debug\ShockwaveFlashObjects.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\rar file\StaffManagement1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.DepartmentForm.resources
+D:\rar file\StaffManagement1\obj\Debug\StaffManagement1.ReportViewF.resources
